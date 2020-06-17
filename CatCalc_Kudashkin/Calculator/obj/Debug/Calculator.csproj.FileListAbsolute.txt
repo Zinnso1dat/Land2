@@ -1,0 +1,10 @@
+C:\Users\kudas\Desktop\CatCalc_Kudashkin\Calculator\bin\Debug\CAT_CALC.exe.config
+C:\Users\kudas\Desktop\CatCalc_Kudashkin\Calculator\bin\Debug\CAT_CALC.exe
+C:\Users\kudas\Desktop\CatCalc_Kudashkin\Calculator\bin\Debug\CAT_CALC.pdb
+C:\Users\kudas\Desktop\CatCalc_Kudashkin\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\kudas\Desktop\CatCalc_Kudashkin\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\kudas\Desktop\CatCalc_Kudashkin\Calculator\obj\Debug\CAT_CALC.Properties.Resources.resources
+C:\Users\kudas\Desktop\CatCalc_Kudashkin\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\kudas\Desktop\CatCalc_Kudashkin\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kudas\Desktop\CatCalc_Kudashkin\Calculator\obj\Debug\CAT_CALC.exe
+C:\Users\kudas\Desktop\CatCalc_Kudashkin\Calculator\obj\Debug\CAT_CALC.pdb
