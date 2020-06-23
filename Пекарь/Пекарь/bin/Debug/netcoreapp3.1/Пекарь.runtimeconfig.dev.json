@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kudas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kudas\\.nuget\\packages"
+    ]
+  }
+}

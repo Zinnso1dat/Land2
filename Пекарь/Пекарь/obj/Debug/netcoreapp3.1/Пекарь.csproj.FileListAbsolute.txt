@@ -1,0 +1,13 @@
+C:\Users\kudas\source\repos\Пекарь\Пекарь\bin\Debug\netcoreapp3.1\Пекарь.exe
+C:\Users\kudas\source\repos\Пекарь\Пекарь\bin\Debug\netcoreapp3.1\Пекарь.deps.json
+C:\Users\kudas\source\repos\Пекарь\Пекарь\bin\Debug\netcoreapp3.1\Пекарь.runtimeconfig.json
+C:\Users\kudas\source\repos\Пекарь\Пекарь\bin\Debug\netcoreapp3.1\Пекарь.runtimeconfig.dev.json
+C:\Users\kudas\source\repos\Пекарь\Пекарь\bin\Debug\netcoreapp3.1\Пекарь.dll
+C:\Users\kudas\source\repos\Пекарь\Пекарь\bin\Debug\netcoreapp3.1\Пекарь.pdb
+C:\Users\kudas\source\repos\Пекарь\Пекарь\obj\Debug\netcoreapp3.1\Пекарь.csprojAssemblyReference.cache
+C:\Users\kudas\source\repos\Пекарь\Пекарь\obj\Debug\netcoreapp3.1\Пекарь.AssemblyInfoInputs.cache
+C:\Users\kudas\source\repos\Пекарь\Пекарь\obj\Debug\netcoreapp3.1\Пекарь.AssemblyInfo.cs
+C:\Users\kudas\source\repos\Пекарь\Пекарь\obj\Debug\netcoreapp3.1\Пекарь.csproj.CoreCompileInputs.cache
+C:\Users\kudas\source\repos\Пекарь\Пекарь\obj\Debug\netcoreapp3.1\Пекарь.dll
+C:\Users\kudas\source\repos\Пекарь\Пекарь\obj\Debug\netcoreapp3.1\Пекарь.pdb
+C:\Users\kudas\source\repos\Пекарь\Пекарь\obj\Debug\netcoreapp3.1\Пекарь.genruntimeconfig.cache
