@@ -1,0 +1,10 @@
+C:\Users\kudas\source\repos\Экзамен\Экзамен\bin\Debug\Экзамен.exe.config
+C:\Users\kudas\source\repos\Экзамен\Экзамен\bin\Debug\Экзамен.exe
+C:\Users\kudas\source\repos\Экзамен\Экзамен\bin\Debug\Экзамен.pdb
+C:\Users\kudas\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.csprojAssemblyReference.cache
+C:\Users\kudas\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.Form1.resources
+C:\Users\kudas\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.Properties.Resources.resources
+C:\Users\kudas\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.csproj.GenerateResource.cache
+C:\Users\kudas\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.csproj.CoreCompileInputs.cache
+C:\Users\kudas\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.exe
+C:\Users\kudas\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.pdb
